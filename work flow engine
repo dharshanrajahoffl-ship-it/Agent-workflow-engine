@@ -1,0 +1,12 @@
+workflow-engine/
+├─ .gitignore
+├─ README.md
+├─ requirements.txt
+├─ app/
+│  ├─ __init__.py
+│  ├─ main.py
+│  ├─ engine.py
+│  ├─ tools.py
+│  └─ workflows/
+│     ├─ __init__.py
+│     └─ code_review.py
